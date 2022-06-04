@@ -4459,6 +4459,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: MWManhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mwmanhwa",
+    "apk": "tachiyomi-all.mwmanhwa-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MWManhwa",
+        "lang": "all",
+        "id": "3977886331011695481",
+        "baseUrl": "https://mwmanhwa.net",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
     "apk": "tachiyomi-all.myreadingmanga-v1.2.43.apk",
@@ -6590,18 +6611,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Pro Z",
+    "name": "Tachiyomi: Manga Pro",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaproz",
-    "apk": "tachiyomi-ar.mangaproz-v1.2.15.apk",
+    "apk": "tachiyomi-ar.mangaproz-v1.2.16.apk",
     "lang": "ar",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Manga Pro Z",
+        "name": "Manga Pro",
         "lang": "ar",
         "id": "964048798769065340",
         "baseUrl": "https://mangaprotm.com",
@@ -13238,12 +13259,12 @@
   },
   {
     "name": "Tachiyomi: ManhuaManga.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhuamanga",
-    "apk": "tachiyomi-en.manhuamanga-v1.2.2.apk",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhuamanganet",
+    "apk": "tachiyomi-en.manhuamanganet-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
-    "nsfw": 1,
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -13721,11 +13742,11 @@
   },
   {
     "name": "Tachiyomi: ManhwaManga.net",
-    "pkg": "eu.kanade.tachiyomi.extension.en.manhwamanga",
-    "apk": "tachiyomi-en.manhwamanga-v1.2.7.apk",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwamanganet",
+    "apk": "tachiyomi-en.manhwamanganet-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -13734,7 +13755,7 @@
         "name": "ManhwaManga.net",
         "lang": "en",
         "id": "5866007440358889004",
-        "baseUrl": "https://mwmanhwa.net",
+        "baseUrl": "https://manhwamanga.net",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -13863,6 +13884,27 @@
         "baseUrl": "https://manhwax.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhwa XXL",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwaxxl",
+    "apk": "tachiyomi-en.manhwaxxl-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhwa XXL",
+        "lang": "en",
+        "id": "4746895257702894026",
+        "baseUrl": "https://manhwaxxl.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },
@@ -26396,10 +26438,10 @@
   {
     "name": "Tachiyomi: Jinmantiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.2.24.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.2.25.apk",
     "lang": "zh",
-    "code": 24,
-    "version": "1.2.24",
+    "code": 25,
+    "version": "1.2.25",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
