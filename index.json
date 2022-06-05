@@ -2536,10 +2536,10 @@
   {
     "name": "Tachiyomi: Kavita",
     "pkg": "eu.kanade.tachiyomi.extension.all.kavita",
-    "apk": "tachiyomi-all.kavita-v1.3.3.apk",
+    "apk": "tachiyomi-all.kavita-v1.3.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.3.3",
+    "code": 4,
+    "version": "1.3.4",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -2573,10 +2573,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.3.39.apk",
+    "apk": "tachiyomi-all.komga-v1.3.40.apk",
     "lang": "all",
-    "code": 39,
-    "version": "1.3.39",
+    "code": 40,
+    "version": "1.3.40",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -2610,10 +2610,10 @@
   {
     "name": "Tachiyomi: LANraragi",
     "pkg": "eu.kanade.tachiyomi.extension.all.lanraragi",
-    "apk": "tachiyomi-all.lanraragi-v1.3.11.apk",
+    "apk": "tachiyomi-all.lanraragi-v1.3.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "1.3.11",
+    "code": 12,
+    "version": "1.3.12",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 1,
@@ -4374,10 +4374,10 @@
   {
     "name": "Tachiyomi: Mango",
     "pkg": "eu.kanade.tachiyomi.extension.all.mango",
-    "apk": "tachiyomi-all.mango-v1.3.8.apk",
+    "apk": "tachiyomi-all.mango-v1.3.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.3.8",
+    "code": 9,
+    "version": "1.3.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 1,
@@ -5406,10 +5406,10 @@
   {
     "name": "Tachiyomi: Tachidesk",
     "pkg": "eu.kanade.tachiyomi.extension.all.tachidesk",
-    "apk": "tachiyomi-all.tachidesk-v1.3.4.apk",
+    "apk": "tachiyomi-all.tachidesk-v1.3.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.3.4",
+    "code": 5,
+    "version": "1.3.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8632,27 +8632,6 @@
         "lang": "en",
         "id": "3228037140571139202",
         "baseUrl": "http://graphitecomics.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Graze Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.grazescans",
-    "apk": "tachiyomi-en.grazescans-v1.3.14.apk",
-    "lang": "en",
-    "code": 14,
-    "version": "1.3.14",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Graze Scans",
-        "lang": "en",
-        "id": "2828074612406363319",
-        "baseUrl": "https://grazescans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -17578,27 +17557,6 @@
         "lang": "en",
         "id": "4081135203808920563",
         "baseUrl": "https://www.webnovel.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: WebNovel",
-    "pkg": "eu.kanade.tachiyomi.extension.en.webnovellive",
-    "apk": "tachiyomi-en.webnovellive-v1.3.23.apk",
-    "lang": "en",
-    "code": 23,
-    "version": "1.3.23",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "WebNovel",
-        "lang": "en",
-        "id": "2969574715769350777",
-        "baseUrl": "https://webnovel.live",
         "versionId": 1,
         "hasCloudflare": 1
       }
