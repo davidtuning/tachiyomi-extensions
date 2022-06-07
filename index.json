@@ -10551,10 +10551,10 @@
   {
     "name": "Tachiyomi: MangaBuddy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabuddy",
-    "apk": "tachiyomi-en.mangabuddy-v1.3.7.apk",
+    "apk": "tachiyomi-en.mangabuddy-v1.3.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.3.7",
+    "code": 8,
+    "version": "1.3.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24169,41 +24169,20 @@
   },
   {
     "name": "Tachiyomi: HentaiLib",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.libhentai",
-    "apk": "tachiyomi-ru.libhentai-v1.3.19.apk",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.hentailib",
+    "apk": "tachiyomi-ru.hentailib-v1.3.20.apk",
     "lang": "ru",
-    "code": 19,
-    "version": "1.3.19",
+    "code": 20,
+    "version": "1.3.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Hentailib",
+        "name": "HentaiLib",
         "lang": "ru",
         "id": "6425650164840473547",
         "baseUrl": "https://hentailib.me",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaLib",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.3.74.apk",
-    "lang": "ru",
-    "code": 74,
-    "version": "1.3.74",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Mangalib",
-        "lang": "ru",
-        "id": "6111047689498497237",
-        "baseUrl": "https://mangalib.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24290,6 +24269,27 @@
         "baseUrl": "https://mangahub.ru",
         "versionId": 1,
         "hasCloudflare": 0
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaLib",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.mangalib",
+    "apk": "tachiyomi-ru.mangalib-v1.3.75.apk",
+    "lang": "ru",
+    "code": 75,
+    "version": "1.3.75",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaLib",
+        "lang": "ru",
+        "id": "6111047689498497237",
+        "baseUrl": "https://mangalib.me",
+        "versionId": 1,
+        "hasCloudflare": 1
       }
     ]
   },
