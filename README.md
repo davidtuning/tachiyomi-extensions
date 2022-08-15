@@ -13,7 +13,7 @@ Extension sources can be downloaded, installed, and uninstalled via the main Tac
 
 ## Downloads
 
-If you prefer to directly download the APK files, they are available via https://tachiyomi.org/extensions/ or directly in this GitHub repository in the [`repo` branch](https://github.com/tachiyomiorg/tachiyomi-extensions/tree/repo/apk).
+If you prefer to directly download the APK files, they are available via https://tachiyomi.org/extensions/ or directly in this GitHub repository in the [`repo` branch](https://github.com/davidtuning/tachiyomi-extensions/tree/repo/apk).
 
 # Requests
 
