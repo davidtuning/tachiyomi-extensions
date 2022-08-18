@@ -32,7 +32,7 @@ class Kumanga : HttpSource() {
 
     override val name = "Kumanga"
 
-    override val baseUrl = "https://www.kumanga.com"
+    override val baseUrl = "https://www.kumanga.net"
 
     override val lang = "es"
 
