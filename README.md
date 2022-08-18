@@ -1,6 +1,6 @@
 | Build | Support Server |
 |-------|---------|
-| [![CI](https://github.com/tachiyomiorg/tachiyomi-extensions/workflows/CI/badge.svg?event=push)](https://github.com/tachiyomiorg/tachiyomi-extensions/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/349436576037732353.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/tachiyomi) |
+| [![CircleCI](https://dl.circleci.com/status-badge/img/gh/davidtuning/tachiyomi-extensions/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/davidtuning/tachiyomi-extensions/tree/master) |
 
 # ![app icon](./.github/readme-images/app-icon.png)Tachiyomi Extensions
 Tachiyomi is a free and open source manga reader for Android 6.0 and above.
